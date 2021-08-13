@@ -1,0 +1,1533 @@
+[
+    {
+        "nombre": "DIVINA 21 COMPRIMIDOS",
+        "precio": "736",
+        "id_producto": "anticoncep1",
+        "categoria": "anticonceptivos",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "56"
+    },
+    {
+        "nombre": "YASMIN 21 COMPRIMIDOS",
+        "precio": "687",
+        "id_producto": "anticoncep2",
+        "categoria": "anticonceptivos",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "55"
+    },
+    {
+        "nombre": "QLAIRA 28 COMPRIMIDOS",
+        "precio": "705",
+        "id_producto": "anticoncep3",
+        "categoria": "anticonceptivos",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "111"
+    },
+    {
+        "nombre": "MIRANDA 28 COMPRIMIDOS",
+        "precio": "742",
+        "id_producto": "anticoncep4",
+        "categoria": "anticonceptivos",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "34"
+    },
+    {
+        "nombre": "EVRA 3 PARCHES",
+        "precio": "766",
+        "id_producto": "anticoncep5",
+        "categoria": "anticonceptivos",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "10"
+    },
+    {
+        "nombre": "MIRENA 1 DISPOSITIVO",
+        "precio": "12452",
+        "id_producto": "anticoncep6",
+        "categoria": "anticonceptivos",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "12"
+    },
+    {
+        "nombre": "FEMEXIN 21 COMPRIMIDOS",
+        "precio": "332",
+        "id_producto": "anticoncep7",
+        "categoria": "anticonceptivos",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "54"
+    },
+    {
+        "nombre": "TRIEVACIN 21 COMPRIMIDOS",
+        "precio": "615",
+        "id_producto": "anticoncep8",
+        "categoria": "anticonceptivos",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "347"
+    },
+    {
+        "nombre": "DIVA 28 COMPRIMIDOS",
+        "precio": "731",
+        "id_producto": "anticoncep9",
+        "categoria": "anticonceptivos",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "400"
+    },
+    {
+        "nombre": "BELLAFACE 21 COMPRIMIDOS",
+        "precio": "783",
+        "id_producto": "anticoncep10",
+        "categoria": "anticonceptivos",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "55"
+    },
+    {
+        "nombre": "ACTRON 600 MG RAPIDA ACCION 10 CAPSULA",
+        "precio": "184",
+        "id_producto": "aa1",
+        "categoria": "analgesicos y antiinflamatorios",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "842"
+
+    },
+    {
+        "nombre": "PARACETAMOL SZABO 50 COMPRIMIDOS",
+        "precio": "343",
+        "id_producto": "aa2",
+        "categoria": "analgesicos y antiinflamatorios",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "988"
+
+    },
+    {
+        "nombre": "DOLEX 500 MG 50 COMPRIMIDOS",
+        "precio": "330",
+        "id_producto": "aa3",
+        "categoria": "analgesicos y antiinflamatorios",
+        "descuento_con_receta": "no",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "455"
+
+    },
+    {
+        "nombre": "PERIFAR FLEX 8 COMPRIMIDOS",
+        "precio": "146",
+        "id_producto": "aa4",
+        "categoria": "analgesicos y antiinflamatorios",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "455"
+
+    },
+    {
+        "nombre": "NOVEMINA FUERTE 10 COMPRIMIDOS",
+        "precio": "82",
+        "id_producto": "aa5",
+        "categoria": "analgesicos y antiinflamatorios",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "574"
+
+    },
+    {
+        "nombre": "PERIFAR 600 MG 8 COMPRIMIDOS",
+        "precio": "111",
+        "id_producto": "aa6",
+        "categoria": "analgesicos y antiinflamatorios",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "444"
+
+    },
+    {
+        "nombre": "PERIFAR 400 MG 8 COMPRIMIDOS",
+        "precio": "81",
+        "id_producto": "aa7",
+        "categoria": "analgesicos y antiinflamatorios",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "778"
+
+    },
+    {
+        "nombre": "TIZAFEN 4 MG 20 COMPRIMIDOS",
+        "precio": "749",
+        "id_producto": "aa8",
+        "categoria": "analgesicos y antiinflamatorios",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "744"
+
+    },
+    {
+        "nombre": "KETOFEN 30 MG X 5 PARCHES",
+        "precio": "602",
+        "id_producto": "aa9",
+        "categoria": "analgesicos y antiinflamatorios",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "454"
+
+    },
+    {
+        "nombre": "IBUPIRAC FAST 600 MG 10 CÁPSULAS",
+        "precio": "187",
+        "id_producto": "aa10",
+        "categoria": "analgesicos y antiinflamatorios",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "552"
+
+    },
+    {
+        "nombre": "XYLO EFA VISCOSA 100 Cc",
+        "precio": "762",
+        "id_producto": "at1",
+        "categoria": "anestesicos topicos",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "54"
+    },
+    {
+        "nombre": "XYLO EFA VISCOSA PEDIATRICA 20 Cc",
+        "precio": "352",
+        "id_producto": "at2",
+        "categoria": "anestesicos topicos",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "89"
+    },
+    {
+        "nombre": "XYLO EFA 4% USO TOPICO SPRAY",
+        "precio": "1425",
+        "id_producto": "at3",
+        "categoria": "anestesicos topicos",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "53"
+    },
+    {
+        "nombre": "LIDOCAINA ION 2% 20 Ml",
+        "precio": "345",
+        "id_producto": "at4",
+        "categoria": "anestesicos topicos",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "44"
+    },
+    {
+        "nombre": "LORATADINA ION 30 COMPRIMIDOS",
+        "precio": "383",
+        "id_producto": "anti1",
+        "categoria": "antialergicos",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "455"
+    },
+    {
+        "nombre": "LORDEX 20 COMPRIMIDOS",
+        "precio": "419",
+        "id_producto": "anti2",
+        "categoria": "antialergicos",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "554"
+    },
+    {
+        "nombre": "KALITRON 8 MG 20 COMPRIMIDOS",
+        "precio": "408",
+        "id_producto": "anti3",
+        "categoria": "antialergicos",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "120"
+    },
+    {
+        "nombre": "MAILEN 5 MG 30 COMPRIMIDOS",
+        "precio": "931",
+        "id_producto": "anti4",
+        "categoria": "antialergicos",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "424"
+    },
+    {
+        "nombre": "HEXALER NF 120 MG 30 COMPRIMIDOS",
+        "precio": "504",
+        "id_producto": "anti5",
+        "categoria": "antialergicos",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "122"
+    },
+    {
+        "nombre": "ALERFAST 10 MG 20 COMPRIMIDOS",
+        "precio": "486",
+        "id_producto": "anti6",
+        "categoria": "antialergicos",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "322"
+    },
+    {
+        "nombre": "ALLEGRA 120 MG 30 COMPRIMIDOS",
+        "precio": "789",
+        "id_producto": "anti7",
+        "categoria": "antialergicos",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "44"
+    },
+    {
+        "nombre": "KALITRON JARABE 120 ML",
+        "precio": "473",
+        "id_producto": "anti8",
+        "categoria": "antialergicos",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "544"
+    },
+    {
+        "nombre": "HISTAPLEN 5 MG 30 COMPRIMIDOS",
+        "precio": "1032",
+        "id_producto": "anti9",
+        "categoria": "antialergicos",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "235"
+    },
+    {
+        "nombre": "ALERFEDINE 120 MG 30 COMPRIMIDOS",
+        "precio": "668",
+        "id_producto": "anti10",
+        "categoria": "antialergicos",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "445"
+    },
+    {
+        "nombre": "ALCOHOL RECTIFICADO 1 L DIU",
+        "precio": "199",
+        "id_producto": "boti1",
+        "categoria": "botiquin",
+        "descuento_con_receta": "no",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "324"
+    },
+    {
+        "nombre": "ALCOHOL EN GEL 250 ML DIU",
+        "precio": "171",
+        "id_producto": "boti2",
+        "categoria": "botiquin",
+        "descuento_con_receta": "no",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "414"
+    },
+    {
+        "nombre": "ALCOHOL EN GEL 1L",
+        "precio": "299",
+        "id_producto": "boti3",
+        "categoria": "botiquin",
+        "descuento_con_receta": "no",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "54"
+    },
+    {
+        "nombre": "ALCOHOL GEL SPIDERMAN 280 ML + TAPABOCA",
+        "precio": "",
+        "id_producto": "boti4",
+        "categoria": "botiquin",
+        "descuento_con_receta": "no",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "80"
+    },
+    {
+        "nombre": "ALCOHOL SPRAY 120 MLFROZEN + TAPABOCA",
+        "precio": "130",
+        "id_producto": "boti5",
+        "categoria": "botiquin",
+        "descuento_con_receta": "no",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "79"
+    },
+    {
+        "nombre": "TAPABOCA TRIPLE CAPA SAFY X50 UNIDADES",
+        "precio": "290",
+        "id_producto": "boti6",
+        "categoria": "botiquin",
+        "descuento_con_receta": "no",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "500"
+    },
+    {
+        "nombre": "CURITA PREMIUM REDONDA 20 UNIDS",
+        "precio": "237",
+        "id_producto": "boti7",
+        "categoria": "botiquin",
+        "descuento_con_receta": "no",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "1"
+    },
+    {
+        "nombre": "ANTISEPTICO CALYPSO PARA MANOS Y SUPERFICIES EN",
+        "precio": "199",
+        "id_producto": "boti8",
+        "categoria": "botiquin",
+        "descuento_con_receta": "no",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "5"
+    },
+    {
+        "nombre": "SPRAY ANTISEPTICO PARA MANOS Y SUPERFICIES 150",
+        "precio": "139",
+        "id_producto": "boti9",
+        "categoria": "botiquin",
+        "descuento_con_receta": "no",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "15"
+    },
+    {
+        "nombre": "ALCOHOL EUCALIPTADO 70º 500 ML DIU",
+        "precio": "183",
+        "id_producto": "boti10",
+        "categoria": "botiquin",
+        "descuento_con_receta": "no",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "50"
+    },
+    {
+        "nombre": "FLUXAN NF GOTAS 45 CC",
+        "precio": "426",
+        "id_producto": "cardio1",
+        "categoria": "cardiovascular",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "100"
+    },
+    {
+        "nombre": "MICARDIS PLUS 80MG/12.5MG 28",
+        "precio": "1345",
+        "id_producto": "cardio2",
+        "categoria": "cardiovascular",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "78"
+    },
+    {
+        "nombre": "ATORVA 20 MG 30 COMPRIMIDOS",
+        "precio": "770",
+        "id_producto": "cardio3",
+        "categoria": "cardiovascular",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "454"
+    },
+    {
+        "nombre": "VALSACOR D 80MG 45 COMPRIMIDOS",
+        "precio": "645",
+        "id_producto": "cardio4",
+        "categoria": "cardiovascular",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "122"
+    },
+    {
+        "nombre": "DAFLON 500 MG 60 COMPRIMIDOS ANTIA MOLL",
+        "precio": "1416",
+        "id_producto": "cardio5",
+        "categoria": "cardiovascular",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "53"
+    },
+    {
+        "nombre": "DROSMINA 200 MG 30 CÁPSULAS",
+        "precio": "989",
+        "id_producto": "cardio6",
+        "categoria": "cardiovascular",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "45"
+    },
+    {
+        "nombre": "MICARDIS 40 MG 28 COMPRIMIDOS",
+        "precio": "990",
+        "id_producto": "cardio7",
+        "categoria": "cardiovascular",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "745"
+    },
+    {
+        "nombre": "ATORVA 10 MG 30 COMPRIMIDOS",
+        "precio": "539",
+        "id_producto": "cardio8",
+        "categoria": "cardiovascular",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "87"
+    },
+    {
+        "nombre": "LIPITOR 20 MG 30 TABLETAS",
+        "precio": "3185",
+        "id_producto": "cardio9",
+        "categoria": "cardiovascular",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "45"
+    },
+    {
+        "nombre": "CORENTEL 5MG 30 COMPRIMIDOS",
+        "precio": "739",
+        "id_producto": "cardio10",
+        "categoria": "cardiovascular",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "56"
+    },
+    {
+        "nombre": "PERFECTIL 30 COMPRIMIDOS",
+        "precio": "997",
+        "id_producto": "derma1",
+        "categoria": "dermatologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "325"
+    },
+    {
+        "nombre": "SELBY CREMA CURATIVA 40 G",
+        "precio": "287",
+        "id_producto": "derma2",
+        "categoria": "dermatologia",
+        "descuento_con_receta": "no",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "525"
+    },
+    {
+        "nombre": "HYALIX EMULGEL 60 G",
+        "precio": "1780",
+        "id_producto": "derma3",
+        "categoria": "dermatologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "254"
+    },
+    {
+        "nombre": "CAPSULAS BLANDAS CLARIX X 30 ",
+        "precio": "641",
+        "id_producto": "derma4",
+        "categoria": "dermatologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "455"
+    },
+    {
+        "nombre": "HIPOGLOS 100 G",
+        "precio": "762",
+        "id_producto": "derma5",
+        "categoria": "dermatologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "554"
+    },
+    {
+        "nombre": "PROPECIA 30 COMPRIMIDOS",
+        "precio": "3789",
+        "id_producto": "derma6",
+        "categoria": "dermatologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "45"
+    },
+    {
+        "nombre": "REMOX 5 LOCIÓN 100 ML",
+        "precio": "802",
+        "id_producto": "derma7",
+        "categoria": "dermatologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "454"
+    },
+    {
+        "nombre": "TRICOMAX 60 CÁPSULAS",
+        "precio": "1143",
+        "id_producto": "derma8",
+        "categoria": "dermatologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "77"
+    },
+    {
+        "nombre": "TIAXAL CREMA 15 G",
+        "precio": "585",
+        "id_producto": "derma9",
+        "categoria": "dermatologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "312"
+    },
+    {
+        "nombre": "ROACCUTAN 20 MG 30 CÁPSULAS",
+        "precio": "4001",
+        "id_producto": "derma10",
+        "categoria": "dermatologia",
+        "descuento_con_receta": "no",
+        "venta_exclusiva_bajo_receta": "si",
+        "cantidad": "57"
+    },
+    {
+        "nombre": "LEVOTIROXINA 100 MCG 100 COMPRIMIDOS",
+        "precio": "857",
+        "id_producto": "endocri1",
+        "categoria": "endocrinologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "54"
+    },
+    {
+        "nombre": "TECUATRO 100 MCG 40 TABLETAS",
+        "precio": "372",
+        "id_producto": "endocri2",
+        "categoria": "endocrinologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "544"
+    },
+    {
+        "nombre": "TESTOVIRON DEPOT 1 AMPOLLA",
+        "precio": "1385",
+        "id_producto": "endocri3",
+        "categoria": "endocrinologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "44"
+    },
+    {
+        "nombre": "PREDNISONA ATHENA 20 MG 20 COMPRIMIDOS",
+        "precio": "321",
+        "id_producto": "endocri4",
+        "categoria": "endocrinologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "13"
+    },
+    {
+        "nombre": "TIROX 100 MG 120 COMPRIMIDOS",
+        "precio": "874",
+        "id_producto": "endocri5",
+        "categoria": "endocrinologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "233"
+    },
+    {
+        "nombre": "PREDNISOLIN 3MG 50 ML.",
+        "precio": "492",
+        "id_producto": "endocri6",
+        "categoria": "endocrinologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "123"
+    },
+    {
+        "nombre": "PREDNISONE EFA 20 MG 20 COMPRIMIDOS",
+        "precio": "319",
+        "id_producto": "endocri7",
+        "categoria": "endocrinologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "214"
+    },
+    {
+        "nombre": "CORODEX 8 MG 10 COMPRIMIDOS",
+        "precio": "774",
+        "id_producto": "endocri8",
+        "categoria": "endocrinologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "125"
+    },
+    {
+        "nombre": "CORIPEN 20 COMPRIMIDOS",
+        "precio": "786",
+        "id_producto": "endocri9",
+        "categoria": "endocrinologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "546"
+    },
+    {
+        "nombre": "ANDROGEL 50 MG 30 SOBRES",
+        "precio": "6589",
+        "id_producto": "endocri10",
+        "categoria": "endocrinologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "10"
+    },
+    {
+        "nombre": "OMEPRAZOL EFA 20 MG 30 CÁPSULAS",
+        "precio": "280",
+        "id_producto": "gastro1",
+        "categoria": "gastroenterologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "564"
+    },
+    {
+        "nombre": "GLORIAX 60 COMPRIMIDOS",
+        "precio": "712",
+        "id_producto": "gastro2",
+        "categoria": "gastroenterologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "521"
+    },
+    {
+        "nombre": "CIRUELAX MINITABLETAS 60 COMPRIMIDOS",
+        "precio": "708",
+        "id_producto": "gastro3",
+        "categoria": "gastroenterologia",
+        "descuento_con_receta": "no",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "700"
+    },
+    {
+        "nombre": "BUSCAPINA COMPUESTA N GOTAS 20 ML",
+        "precio": "445",
+        "id_producto": "gastro4",
+        "categoria": "gastroenterologia",
+        "descuento_con_receta": "no",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "123"
+    },
+    {
+        "nombre": "MULTIFLORA PLUS 60 CÁPSULAS",
+        "precio": "1598",
+        "id_producto": "gastro5",
+        "categoria": "gastroenterologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "214"
+    },
+    {
+        "nombre": "HEPAMIDA GOTAS 120 ML",
+        "precio": "714",
+        "id_producto": "gastro6",
+        "categoria": "gastroenterologia",
+        "descuento_con_receta": "no",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "47"
+    },
+    {
+        "nombre": "BUSCAPINA COMPUESTA 10 COMPRIMIDOS",
+        "precio": "402",
+        "id_producto": "gastro7",
+        "categoria": "gastroenterologia",
+        "descuento_con_receta": "no",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "102"
+    },
+    {
+        "nombre": "DOMPER 30 COMPRIMIDOS",
+        "precio": "604",
+        "id_producto": "gastro8",
+        "categoria": "gastroenterologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "415"
+    },
+    {
+        "nombre": "SINNER 40 COMPRIMIDOS",
+        "precio": "544",
+        "id_producto": "gastro9",
+        "categoria": "gastroenterologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "114"
+    },
+    {
+        "nombre": "SERTAL GOTAS 25 ML",
+        "precio": "491",
+        "id_producto": "gastro10",
+        "categoria": "gastroenterologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "789"
+    },
+    {
+        "nombre": "XARELTO 20 MG 28 COMPRIMIDOS",
+        "precio": "5645",
+        "id_producto": "hemato1",
+        "categoria": "hematologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "211"
+    },
+    {
+        "nombre": "MANTIXA 5 MG 60 COMP",
+        "precio": "3551",
+        "id_producto": "hemato2",
+        "categoria": "hematologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "232"
+    },
+    {
+        "nombre": "CARDIOASPIRINA 100 MG 10 COMPRIMIDOS",
+        "precio": "81",
+        "id_producto": "hemato3",
+        "categoria": "hematologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "500"
+    },
+    {
+        "nombre": "CHELTIN FOLIC 30 COMPRIMIDOS",
+        "precio": "819",
+        "id_producto": "hemato4",
+        "categoria": "hematologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "211"
+    },
+    {
+        "nombre": "FERROPOLIN GOTAS 30 ML",
+        "precio": "578",
+        "id_producto": "hemato5",
+        "categoria": "hematologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "456"
+    },
+    {
+        "nombre": "AFOLIC 0.8 MG 100 COMPRIMIDOS",
+        "precio": "870",
+        "id_producto": "hemato6",
+        "categoria": "hematologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "21"
+    },
+    {
+        "nombre": "TRIBUFF 100 MG 60 COMPRIMIDOS",
+        "precio": "408",
+        "id_producto": "hemato7",
+        "categoria": "hematologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "124"
+    },
+    {
+        "nombre": "MALTOFER 30 TABLETAS MASTICABLES",
+        "precio": "873",
+        "id_producto": "hemato8",
+        "categoria": "hematologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "245"
+    },
+    {
+        "nombre": "PLAVIX 75 MG 14 COMPRIMIDOS",
+        "precio": "2067",
+        "id_producto": "hemato9",
+        "categoria": "hematologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "454"
+    },
+    {
+        "nombre": "BRILINTA 90 MG 30 COMPRIMIDOS",
+        "precio": "2793",
+        "id_producto": "hemato10",
+        "categoria": "hematologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "456"
+    },
+    {
+        "nombre": "BRONCHO VAXOM ADULTOS 10 CÁPSULAS",
+        "precio": "990",
+        "id_producto": "inmuno1",
+        "categoria": "inmunologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "157"
+    },
+    {
+        "nombre": "EQUINACEA ABIES 60 CÁPSULAS",
+        "precio": "818",
+        "id_producto": "inmuno2",
+        "categoria": "inmunologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "686"
+    },
+    {
+        "nombre": "URO VAXOM 30 CÁPSULAS",
+        "precio": "2853",
+        "id_producto": "inmuno3",
+        "categoria": "inmunologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "87"
+    },
+    {
+        "nombre": "BRONCHO VAXOM PEDIATRICO 10 CÁPSULAS",
+        "precio": "603",
+        "id_producto": "inmuno4",
+        "categoria": "inmunologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "85"
+    },
+    {
+        "nombre": "ISMIGEN 10 TABLETAS SUBLINGUALES",
+        "precio": "960",
+        "id_producto": "inmuno5",
+        "categoria": "inmunologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "78"
+    },
+    {
+        "nombre": "BRONCHO VAXOM NIÑOS SOBRES",
+        "precio": "615",
+        "id_producto": "inmuno6",
+        "categoria": "inmunologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "96"
+    },
+    {
+        "nombre": "TERVALAN 500 MG 10 COMPRIMIDOS",
+        "precio": "72",
+        "id_producto": "inmuno7",
+        "categoria": "inmunologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "45"
+    },
+    {
+        "nombre": "XILUET 120 MG 60 CÁPSULAS",
+        "precio": "4358",
+        "id_producto": "metab1",
+        "categoria": "metabolismo",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "85"
+    },
+    {
+        "nombre": "CRISPLUS 120 MG 30 CÁPSULAS",
+        "precio": "2319",
+        "id_producto": "metab2",
+        "categoria": "metabolismo",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "87"
+    },
+    {
+        "nombre": "CAFE VERDE SUPLEMENTO DIETARIO",
+        "precio": "856",
+        "id_producto": "metab3",
+        "categoria": "metabolismo",
+        "descuento_con_receta": "no",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "412"
+    },
+    {
+        "nombre": "CAFE VERDE 60 CAPSULAS",
+        "precio": "1900",
+        "id_producto": "metab4",
+        "categoria": "metabolismo",
+        "descuento_con_receta": "no",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "10"
+    },
+    {
+        "nombre": "GARCINIA ABIES 60 CÁPSULAS",
+        "precio": "882",
+        "id_producto": "metab5",
+        "categoria": "metabolismo",
+        "descuento_con_receta": "no",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "542"
+    },
+    {
+        "nombre": "DIET FIT FIBER X 60 CAPSULAS",
+        "precio": "1121",
+        "id_producto": "metab6",
+        "categoria": "metabolismo",
+        "descuento_con_receta": "no",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "63"
+    },
+    {
+        "nombre": "CAFE VERDE ABIES 30 CÁPSULAS",
+        "precio": "653",
+        "id_producto": "metab7",
+        "categoria": "metabolismo",
+        "descuento_con_receta": "no",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "600"
+    },
+    {
+        "nombre": "SPIRULINA 60 CÁPSULAS ABIES",
+        "precio": "869",
+        "id_producto": "metab8",
+        "categoria": "metabolismo",
+        "descuento_con_receta": "no",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "148"
+    },
+    {
+        "nombre": "ALGADEL HOMEOPATÍA ALEMANA 60 CÁPSULAS",
+        "precio": "790",
+        "id_producto": "metab9",
+        "categoria": "metabolismo",
+        "descuento_con_receta": "no",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "178"
+    },
+    {
+        "nombre": "RENVELA 180 COMPRIMIDOS",
+        "precio": "8358",
+        "id_producto": "metab10",
+        "categoria": "metabolismo",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "23"
+    },
+    {
+        "nombre": "VENTIPLUS 250 DOSIS",
+        "precio": "616",
+        "id_producto": "neumol1",
+        "categoria": "neumologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "423"
+    },
+    {
+        "nombre": "FLODIGRIP NF DESCONGESTIVO",
+        "precio": "275",
+        "id_producto": "neumol2",
+        "categoria": "neumologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "85"
+    },
+    {
+        "nombre": "ABRILAR JARABE 200 ML",
+        "precio": "730",
+        "id_producto": "neumol3",
+        "categoria": "neumologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "456"
+    },
+    {
+        "nombre": "BUTOVENT HFA 280 DOSIS",
+        "precio": "548",
+        "id_producto": "neumol4",
+        "categoria": "neumologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "66"
+    },
+    {
+        "nombre": "VANNAIR 160/4.5 MCG INHALADOR",
+        "precio": "2192",
+        "id_producto": "neumol5",
+        "categoria": "neumologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "77"
+    },
+    {
+        "nombre": "KALOBA SOLUCION 20 ML.",
+        "precio": "545",
+        "id_producto": "neumol6",
+        "categoria": "neumologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "21"
+    },
+    {
+        "nombre": "SYMBICORT 160 / 4.5 120 DOSIS",
+        "precio": "2192",
+        "id_producto": "neumol7",
+        "categoria": "neumologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "100"
+    },
+    {
+        "nombre": "BIO GRIP PLUS 8 COMPRIMIDOS",
+        "precio": "176",
+        "id_producto": "neumol8",
+        "categoria": "neumologia",
+        "descuento_con_receta": "no",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "50"
+    },
+    {
+        "nombre": "BIO GRIP DESCONGESTIVO 10 COMPRIMIDOS",
+        "precio": "283",
+        "id_producto": "neumol9",
+        "categoria": "neumologia",
+        "descuento_con_receta": "no",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "500"
+    },
+    {
+        "nombre": "DI NEUMOBRON DISOLVETAS",
+        "precio": "238",
+        "id_producto": "neumol10",
+        "categoria": "neumologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "80"
+    },
+    {
+        "nombre": "PERIFAR MIGRA 8 COMPRIMIDOS",
+        "precio": "188",
+        "id_producto": "neuro1",
+        "categoria": "neurologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "500"
+    },
+    {
+        "nombre": "OXA B12 10 COMPRIMIDOS",
+        "precio": "425",
+        "id_producto": "neuro2",
+        "categoria": "neurologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "300"
+    },
+    {
+        "nombre": "MELATONINA 5 MG 20 COMPRIMIDOS",
+        "precio": "736",
+        "id_producto": "neuro3",
+        "categoria": "neurologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "423"
+    },
+    {
+        "nombre": "EXELON TTS 15 MG 30 PARCHES",
+        "precio": "4130",
+        "id_producto": "neuro4",
+        "categoria": "neurologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "10"
+    },
+    {
+        "nombre": "ARMONIL 40 COMPRIMIDOS",
+        "precio": "621",
+        "id_producto": "neuro5",
+        "categoria": "neurologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "50"
+    },
+    {
+        "nombre": "REMINYL ER 16 MG 28 TABLETAS",
+        "precio": "3152",
+        "id_producto": "neuro6",
+        "categoria": "neurologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "100"
+    },
+    {
+        "nombre": "GAVIN 75 MG 30 COMPRIMIDOS",
+        "precio": "748",
+        "id_producto": "neuro7",
+        "categoria": "neurologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "178"
+    },
+    {
+        "nombre": "LYRICA 75 MG 28 CÁPSULAS",
+        "precio": "2244",
+        "id_producto": "neuro8",
+        "categoria": "neurologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "60"
+    },
+    {
+        "nombre": "EQUIBRAL 60 COMPRIMIDOS",
+        "precio": "649",
+        "id_producto": "neuro9",
+        "categoria": "neurologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "398"
+    },
+    {
+        "nombre": "MIGRA ERGOFALEA 20 COMPRIMIDOS",
+        "precio": "311",
+        "id_producto": "neuro10",
+        "categoria": "neurologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "500"
+    },
+    {
+        "nombre": "OPTI-FREE EXPRESS SOLUCION 355 ML",
+        "precio": "1053",
+        "id_producto": "ofta1",
+        "categoria": "oftalmologia",
+        "descuento_con_receta": "no",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "48"
+    },
+    {
+        "nombre": "DIARIS OFTALMICO 30 CÁPSULAS",
+        "precio": "1420",
+        "id_producto": "ofta2",
+        "categoria": "oftalmologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "641"
+    },
+    {
+        "nombre": "LAGRICEL PF OFTENO 10 ML ( OFT )",
+        "precio": "1106",
+        "id_producto": "ofta3",
+        "categoria": "oftalmologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "48"
+    },
+    {
+        "nombre": "LACRIMAX 10 ML",
+        "precio": "555",
+        "id_producto": "ofta4",
+        "categoria": "oftalmologia",
+        "descuento_con_receta": "no",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "20"
+    },
+    {
+        "nombre": "SYSTANE ULTRA GOTAS OFTALMICAS 10 ML",
+        "precio": "886",
+        "id_producto": "ofta5",
+        "categoria": "oftalmologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "300"
+    },
+    {
+        "nombre": "KRYTANTEK OFTENO 5 ML",
+        "precio": "1478",
+        "id_producto": "ofta6",
+        "categoria": "oftalmologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "200"
+    },
+    {
+        "nombre": "NABOR GOTAS OFTALMICAS 15 ML (OFT)",
+        "precio": "413",
+        "id_producto": "ofta7",
+        "categoria": "oftalmologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "455"
+    },
+    {
+        "nombre": "VITALUX PLUS OMEGA 3 OFTALMICO 30 CÁPSULAS",
+        "precio": "847",
+        "id_producto": "ofta8",
+        "categoria": "oftalmologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "100"
+    },
+    {
+        "nombre": "PATANOL S 0.2 % GOTAS OFTALMICO 2.5 MG",
+        "precio": "1704",
+        "id_producto": "ofta9",
+        "categoria": "oftalmologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "412"
+    },
+    {
+        "nombre": "KUARA OFTALMICO 3 ML",
+        "precio": "1827",
+        "id_producto": "ofta10",
+        "categoria": "oftalmologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "378"
+    },
+    {
+        "nombre": "IODO 60 ML SPRAY",
+        "precio": "215",
+        "id_producto": "prdquim1",
+        "categoria": "productos quimicos",
+        "descuento_con_receta": "no",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "80"
+    },
+    {
+        "nombre": "AGUA DESIONIZADA 1 L",
+        "precio": "98",
+        "id_producto": "prdquim2",
+        "categoria": "productos quimicos",
+        "descuento_con_receta": "no",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "100"
+    },
+    {
+        "nombre": "ACIDO BORICO 30 GRS",
+        "precio": "92",
+        "id_producto": "prdquim3",
+        "categoria": "productos quimicos",
+        "descuento_con_receta": "no",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "66"
+    },
+    {
+        "nombre": "GLICERINA 100 ML",
+        "precio": "104",
+        "id_producto": "prdquim4",
+        "categoria": "productos quimicos",
+        "descuento_con_receta": "no",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "1"
+    },
+    {
+        "nombre": "BICARBONATO DE SODIO 100 G",
+        "precio": "28",
+        "id_producto": "prdquim5",
+        "categoria": "productos quimicos",
+        "descuento_con_receta": "no",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "300"
+    },
+    {
+        "nombre": "OXIDANTE CREMOSO 60 VOL 100ML",
+        "precio": "119",
+        "id_producto": "prdquim6",
+        "categoria": "productos quimicos",
+        "descuento_con_receta": "no",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "185"
+    },
+    {
+        "nombre": "PIEDRA DE AZUFRE 1 BARRA",
+        "precio": "16",
+        "id_producto": "prdquim7",
+        "categoria": "productos quimicos",
+        "descuento_con_receta": "no",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "500"
+    },
+    {
+        "nombre": "QUITAESMALTE 100 ML",
+        "precio": "107",
+        "id_producto": "prdquim8",
+        "categoria": "productos quimicos",
+        "descuento_con_receta": "no",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "425"
+    },
+    {
+        "nombre": "PIASCLEDINE 300 MG 30 CÁPSULAS",
+        "precio": "2119",
+        "id_producto": "reuma1",
+        "categoria": "reumatologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "59"
+    },
+    {
+        "nombre": "UÑA DE GATO ABIES 60 CÁPSULAS",
+        "precio": "936",
+        "id_producto": "reuma2",
+        "categoria": "reumatologia",
+        "descuento_con_receta": "no",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "233"
+    },
+    {
+        "nombre": "CALCIMAX D3 400 MG 60 COMPRIMIDOS",
+        "precio": "463",
+        "id_producto": "reuma3",
+        "categoria": "reumatologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "94"
+    },
+    {
+        "nombre": "CONDROXAMIN FORTE 30 SOBRES",
+        "precio": "1364",
+        "id_producto": "reuma4",
+        "categoria": "reumatologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "178"
+    },
+    {
+        "nombre": "SAPONIC 300 MG 30 CÁPSULAS",
+        "precio": "773",
+        "id_producto": "reuma5",
+        "categoria": "reumatologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "300"
+    },
+    {
+        "nombre": "ZOLTUM PLUS 30 SOBRES",
+        "precio": "1544",
+        "id_producto": "reuma6",
+        "categoria": "reumatologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "5"
+    },
+    {
+        "nombre": "EVOQUIN 30 COMPRIMIDOS",
+        "precio": "1588",
+        "id_producto": "reuma7",
+        "categoria": "reumatologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "si",
+        "cantidad": "60"
+    },
+    {
+        "nombre": "ORAFIX 150 MG 1 COMPRIMIDOS",
+        "precio": "544",
+        "id_producto": "reuma8",
+        "categoria": "reumatologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "328"
+    },
+    {
+        "nombre": "CARTILAGO ABIES 750 MG 60 CÁPSULAS",
+        "precio": "1090",
+        "id_producto": "reuma9",
+        "categoria": "reumatologia",
+        "descuento_con_receta": "no",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "41"
+    },
+    {
+        "nombre": "NULARTRIN 50 MG 30 CÁPSULAS",
+        "precio": "917",
+        "id_producto": "reuma10",
+        "categoria": "reumatologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "30"
+    },
+    {
+        "nombre": "FOSFOMICINA 3 GRS",
+        "precio": "796",
+        "id_producto": "uro1",
+        "categoria": "urologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "452"
+    },
+    {
+        "nombre": "LIPAK LP 60 COMPRIMIDOS",
+        "precio": "800",
+        "id_producto": "uro2",
+        "categoria": "urologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "100"
+    },
+    {
+        "nombre": "CONTINEX 7.5MG 30 COMPRIMIDOS",
+        "precio": "975",
+        "id_producto": "uro3",
+        "categoria": "urologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "43"
+    },
+    {
+        "nombre": "SIFEL 5MG X 30 COMP",
+        "precio": "756",
+        "id_producto": "uro4",
+        "categoria": "urologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "100"
+    },
+    {
+        "nombre": "UROLOSIN 0.4 MG 20 COMPRIMIDOS",
+        "precio": "864",
+        "id_producto": "uro5",
+        "categoria": "urologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "55"
+    },
+    {
+        "nombre": "SOLNEF 10 MG 30 COMPRIMIDOS",
+        "precio": "1106",
+        "id_producto": "uro6",
+        "categoria": "urologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "23"
+    },
+    {
+        "nombre": "PROSTOKLAR 0.4 MG 30 COMPRIMIDOS",
+        "precio": "931",
+        "id_producto": "uro7",
+        "categoria": "urologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "78"
+    },
+    {
+        "nombre": "URONOR 18 COMPRIMIDOS",
+        "precio": "1385",
+        "id_producto": "uro8",
+        "categoria": "urologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "14"
+    },
+    {
+        "nombre": "PLENOMAX 5 MG 30 COMPRIMIDOS",
+        "precio": "858",
+        "id_producto": "uro9",
+        "categoria": "urologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "158"
+    },
+    {
+        "nombre": "SOCLIDEN 5MG 20 CÁPSULAS",
+        "precio": "780",
+        "id_producto": "uro10",
+        "categoria": "urologia",
+        "descuento_con_receta": "si",
+        "venta_exclusiva_bajo_receta": "no",
+        "cantidad": "40"
+    }
+]
